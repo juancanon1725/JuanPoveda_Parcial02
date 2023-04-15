@@ -1,1 +1,4 @@
-# JuanPoveda_Parcial02
+# Parcial 2 (Parte Practica)
+
+## Juan Pablo Poveda Cañon
+
